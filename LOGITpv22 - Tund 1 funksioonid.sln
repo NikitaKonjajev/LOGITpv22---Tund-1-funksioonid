@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LOGITpv22 - Tund 1 funksioonid", "LOGITpv22 - Tund 1 funksioonid\LOGITpv22 - Tund 1 funksioonid.pyproj", "{E47D475D-15EC-465F-A33A-45445FBB4244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E47D475D-15EC-465F-A33A-45445FBB4244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47D475D-15EC-465F-A33A-45445FBB4244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E1E0BFD-E2C2-431B-9E51-6527611BBF35}
+	EndGlobalSection
+EndGlobal
